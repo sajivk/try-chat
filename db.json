@@ -10,6 +10,6 @@
   },
   "keys": {
     "key": "abc", 
-    "choices": [ 'first', 'second', 'third' ] 
+    "choices": [ "first", "second", "third" ] 
   }
 }
