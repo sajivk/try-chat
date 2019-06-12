@@ -8,4 +8,8 @@
   "profile": {
     "name": "typicode"
   }
+  "keys": {
+    "key": "abc", 
+    "choices": [ 'first', 'second', 'third' ] 
+  }
 }
