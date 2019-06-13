@@ -10,6 +10,7 @@
   },
   "keys": {
     "key": "abc", 
+    "type": "Multiple"
     "choices": [ "first", "second", "third" ] 
   }
 }
