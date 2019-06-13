@@ -13,8 +13,10 @@
     "type": "Multiple",
     "choices": [ "first", "second", "third" ] 
   },
-  "input": {
+  "input": [
+    {
     "type": [ "name", "name2", "name3" ],
     "id": [ "123", "456", "789" ]
-  }
+    }
+  ]
 }
