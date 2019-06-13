@@ -18,5 +18,17 @@
     "type": [ "name", "name2", "name3" ],
     "id": [ "123", "456", "789" ]
     }
+  ],
+  "output" : [
+    {
+    "myObject0" : {  
+      "type": "name",
+      "id": "123"
+    },
+    "myObject1" : {
+      "type" : "name",
+      "id": "124"
+    }
+  }
   ]
 }
