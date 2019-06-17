@@ -16,7 +16,7 @@
   "test_dynamic": [
     {"key": "field_1"}, 
     {"key": "field_2"}, 
-    {"key": "field_3"}, 
+    {"key": "field_3"}
   ],
   "input": [
     {
