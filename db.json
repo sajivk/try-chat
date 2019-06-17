@@ -13,6 +13,11 @@
     "type": "Multiple",
     "choices": [ "first", "second", "third" ] 
   },
+  "test_dynamic": [
+    {"key": "field_1"}, 
+    {"key": "field_2"}, 
+    {"key": "field_3"}, 
+  ],
   "input": [
     {
     "type": [ "name", "name2", "name3" ],
