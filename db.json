@@ -5,9 +5,6 @@
       "title": "hello"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  },
   "keys": {
     "key": "abc", 
     "type": "Multiple",
