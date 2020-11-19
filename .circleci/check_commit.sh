@@ -12,7 +12,7 @@ echo "Circle compare URL - end"
 if [ "$branch" = "master" ]; then
   echo "YES, IT'S MASTER!!"
   eval $testCommand
-elif git diff --name-only origin/master...$branch  | grep "^${engine}" ; then
+elif git diff --name-only $PREVIOUS_COMMIT...$NEW_COMMIT  | grep "^${engine}" ; then
   echo "YES, THIS FOLDER IS BEING MODIFIED"
 
   eval $testCommand
