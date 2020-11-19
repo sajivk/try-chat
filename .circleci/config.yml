@@ -11,4 +11,4 @@ jobs:
     steps:
       - checkout
       # run tests!
-      - run: ./.circleci/check_commit.sh .circle-ci "ls"
+      - run: sh ./.circleci/check_commit.sh new_folder "ls"
