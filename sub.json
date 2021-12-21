@@ -1,22 +1,17 @@
 [
   {
     "id": "ref1",
-    "link": "url1",
-    "url": ""
+    "zipLink": "url1",
+    "csvLink": ""
   },
   {
     "id": "ref2",
-    "link": "url2",
-    "url": ""
+    "zipLink": "url2",
+    "csvLink": ""
   },
   {
     "id": "ref3",
-    "link": "url3",
-    "url": ""
-  },
-  {
-    "id": "ref4",
-    "link": "url4",
-    "url": "link4"
+    "zipLink": "url3",
+    "csvLink": ""
   }
 ]
