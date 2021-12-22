@@ -1,10 +1,5 @@
 [
   {
-    "id": "ref1",
-    "zipLink": "url1",
-    "csvLink": ""
-  },
-  {
     "id": "ref2",
     "zipLink": "url2",
     "csvLink": ""
@@ -28,5 +23,10 @@
     "id": "ref6",
     "zipLink": "url6",
     "csvLink": "csv6"
+  },
+  {
+    "id": "ref7",
+    "zipLink": "url7",
+    "csvLink": "csv7"
   }
 ]
