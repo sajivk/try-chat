@@ -1,32 +1,8 @@
-[
-  {
-    "id": "ref2",
-    "zipLink": "url2",
-    "csvLink": ""
-  },
-  {
-    "id": "ref3",
-    "zipLink": "url3",
-    "csvLink": ""
-  },
-  {
-    "id": "ref4",
-    "zipLink": "url4",
-    "csvLink": "csv4"
-  },
-  {
-    "id": "ref5",
-    "zipLink": "url5",
-    "csvLink": "csv5"
-  },
-  {
-    "id": "ref6",
-    "zipLink": "url6",
-    "csvLink": "csv6"
-  },
-  {
-    "id": "ref7",
-    "zipLink": "url7",
-    "csvLink": "csv7"
-  }
-]
+{
+  'email1': [
+    { name: 'City', type: 'TEXT', value: 'c1' },
+    { name: 'Date', type: 'DATE', value: 'January 20, 2021' },
+    { name: 'FieldA', value: 'aa', type: 'TEXT' },
+    { name: 'FieldC', value: 'cc', type: 'TEXT' },
+  ],
+}
